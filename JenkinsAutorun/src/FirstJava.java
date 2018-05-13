@@ -3,7 +3,7 @@ public class FirstJava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Jenkins Autorun changed");
+		System.out.println("Jenkins Autorun changed welcome");
 	}
 
 }
